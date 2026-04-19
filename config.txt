@@ -1,0 +1,6 @@
+detection_size=159
+activation_key=18
+color_tolerance=40
+click_cooldown_ms=10
+scan_stride=2
+yolo_confidence=25
